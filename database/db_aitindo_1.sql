@@ -37,15 +37,6 @@ CREATE TABLE `todo_list` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
--- Dumping data untuk tabel `todo_list`
---
-
-INSERT INTO `todo_list` (`id`, `list_desc`, `status`, `create_at`, `update_at`, `delete_at`) VALUES
-(1, 'Ku tak bisa tuk memungkiri', '0', '1653597280', '1653582817', ''),
-(2, 'Besok ke kantor imigrasi lagi, ', '0', '1653597412', '1653582759', '1653582802'),
-(3, 'Adawdads', '1', '1653582795', '1653582814', '');
-
---
 -- Indexes for dumped tables
 --
 
